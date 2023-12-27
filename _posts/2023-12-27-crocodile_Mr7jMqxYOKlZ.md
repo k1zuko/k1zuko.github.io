@@ -8,7 +8,7 @@ image:
     alt: Crocodile - HackTheBox
 ---
 
-[**Crocodile**](https://app.hackthebox.com/starting-point) is one of the Starting Points from [**HackTheBox**](https://app.hackthebox.com/).
+[**Crocodile**](https://app.hackthebox.com/starting-point) is one of the Starting Points from [**HackTheBox**](https://app.hackthebox.com/), where in CTF Crocodile we will learn about **??**.
 
 ## Introduction
 

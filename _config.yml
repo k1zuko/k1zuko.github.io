@@ -73,7 +73,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://raw.githubusercontent.com/HudaStillLearning/HudaStillLearning/main/Anime.jpeg
+avatar: https://raw.githubusercontent.com/HudaStillLearning/HudaStillLearning/main/Anime1.jpg
 
 # boolean type, the global switch for TOC in posts.
 toc: true
@@ -154,11 +154,11 @@ defaults:
       layout: page
       permalink: /:title/
   - scope:
-      path: /assets/img/favicons
+      path: assets/img/favicons
     values:
       swcache: true
   - scope:
-      path: /assets/js/dist
+      path: assets/js/dist
     values:
       swcache: true
 
