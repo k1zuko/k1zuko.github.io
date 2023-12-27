@@ -21,7 +21,7 @@ To check the target connection and port, we can use **Ping** and **Nmap**.
 
 ### Ping
 
-After spawn machine, we can start with ping Target IP.
+After spawn machine, we can start with `ping` Target IP.
 
 ```bash
 ❯ ping 10.129.173.189
@@ -39,7 +39,7 @@ rtt min/avg/max/mdev = 247.321/290.647/327.390/29.608 ms
 
 ### Nmap 
 
-Scan ports using nmap, -sV to display port version info, -T4 to speed up scanning (the higher the faster [0-5]).
+Scan ports using `nmap`, `-sV` to display port version info, `-T4` to speed up scanning (the higher the faster [0-5]).
 
 ```bash
 ❯ nmap -sCV -T4 10.129.173.189
