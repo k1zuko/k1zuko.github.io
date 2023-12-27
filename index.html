@@ -2,3 +2,46 @@
 layout: home
 # Index page
 ---
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Gangguan!</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+        }
+        .marquee-container {
+            white-space: nowrap;
+            overflow: hidden;
+        }
+        marquee {
+            font-size: 18px;
+            color: #333;
+            animation: marqueeAnimation 15s linear infinite;
+        }
+        @keyframes marqueeAnimation {
+            from {
+                transform: translateX(100%);
+            }
+
+            to {
+                transform: translateX(-100%);
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div class="marquee-container">
+        <marquee behavior="scroll" direction="left">Sedang dalam gangguan! Mohon bersabar, ini ujian.</marquee>
+    </div>
+</body>
+
+</html>
