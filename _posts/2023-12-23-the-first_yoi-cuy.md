@@ -10,3 +10,12 @@ image:
 ## Selamat Datang Cuy!!
 
 ini post-an pertama saya, **K1zuko**.
+
+## Run Docker
+
+```bash
+sudo systemctl start docker
+docker build .
+docker images
+docker run -p 1337:1337 {image}
+```

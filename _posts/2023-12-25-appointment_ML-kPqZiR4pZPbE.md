@@ -39,7 +39,7 @@ rtt min/avg/max/mdev = 247.321/290.647/327.390/29.608 ms
 
 ### Nmap 
 
-Scan ports using `nmap`, `-sV` to display port version info, `-T4` to speed up scanning (the higher the faster [0-5]).
+Scan ports using `nmap`, `-sCV` is a combination of `-sC` and `-sV`, where `-sC` displays the script for the port and `-sV` displays the version info for the port, `-T4` to speed up scanning (the higher the faster [0-5]).
 
 ```bash
 ❯ nmap -sCV -T4 10.129.173.189
