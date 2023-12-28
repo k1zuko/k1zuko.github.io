@@ -1,14 +1,14 @@
 ---
-title: "HackTheBox - Responder (In Progress)"
+title: "HackTheBox - Responder"
 date: 2023-12-27 19:00:00 +0700
 categories: [HackTheBox, Starting Point]
-tags: [very easy, web, smb, winrm]
+tags: [very easy, web, smb, winrm, responder]
 image:
     path: /assets/img/htb/Responder.png
     alt: Responder - HackTheBox
 ---
 
-[**Responder**](https://app.hackthebox.com/starting-point) is one of the Starting Points from [**HackTheBox**](https://app.hackthebox.com/), where in CTF Responder we will learn about **??**.
+[**Responder**](https://app.hackthebox.com/starting-point) is one of the Starting Points from [**HackTheBox**](https://app.hackthebox.com/), where in CTF Responder we will learn about **LFI (Local File Inclusion), Responder, John, WinRM (Evil-WinRM)**.
 
 ## Introduction
 
