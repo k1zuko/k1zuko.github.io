@@ -5,8 +5,7 @@ categories: [HackTheBox, Challenges]
 tags: [very easy, web]
 ---
 
-**Gunship** ialah salah satu tantangan kategori web dari situs HackTheBox, Gunship ini sebenarnya tantangan lama tapi karena saya belum coba, jadi saya kerjakan aja. Ini perjalanan/panduan saya
-Oh iya, disini kita akan mempelajari tentang exploit, burpsuite dll.
+**Gunship** ialah salah satu tantangan kategori web dari situs HackTheBox, Gunship ini sebenarnya tantangan lama tapi karena saya belum coba, jadi saya kerjakan aja. Ini perjalanan/panduan saya. Oh iya, disini kita akan mempelajari tentang exploit, burpsuite dll.
 
 ## Introduction
 
@@ -110,7 +109,7 @@ Lihat hasilnya `/bin/sh: flagkmBDk: not found`, nah sekarang coba kita ganti `'$
 
 ![Desktop View](/assets/img/htb/include/Gunship-2.png){: .w-75}
 
-***/bin/sh: HTB{f4k3_fl4g_f0r_t3st1ng}***
+*/bin/sh: HTB{f4k3_fl4g_f0r_t3st1ng}*
 
 > kenapa kok fake flag? karena saya menjalankan yang file Docker, bukan yang dari HTB nya langsung.
 {: .prompt-info}
