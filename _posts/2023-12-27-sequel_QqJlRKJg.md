@@ -8,7 +8,7 @@ image:
     alt: Sequel - HackTheBox
 ---
 
-[**Sequel**](https://app.hackthebox.com/starting-point) is one of the Starting Points from [**HackTheBox**](https://app.hackthebox.com/), where in CTF Fawn we will learn about **MySQL (My Sctuctured Query Language)**.
+[**Sequel**](https://app.hackthebox.com/starting-point) is one of the Starting Points from [**HackTheBox**](https://app.hackthebox.com/), where in CTF Sequel we will learn about **MySQL (My Sctuctured Query Language)**.
 
 ## Introduction
 

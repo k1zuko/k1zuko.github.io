@@ -8,7 +8,7 @@ image:
     alt: Three - HackTheBox
 ---
 
-[**Three**](https://app.hackthebox.com/starting-point) is one of the Starting Points from [**HackTheBox**](https://app.hackthebox.com/), where in CTF Fawn we will learn about **SMB (Server Message Block)**.
+[**Three**](https://app.hackthebox.com/starting-point) is one of the Starting Points from [**HackTheBox**](https://app.hackthebox.com/), where in CTF Three we will learn about **SMB (Server Message Block)**.
 
 ## Introduction
 

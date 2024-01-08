@@ -8,7 +8,7 @@ image:
     alt: Redeemer - HackTheBox
 ---
 
-[**Redeemer**](https://app.hackthebox.com/starting-point) is one of the Starting Points from [**HackTheBox**](https://app.hackthebox.com/), where in CTF Fawn we will learn about **Redis (REmote DIctionary Server)**.
+[**Redeemer**](https://app.hackthebox.com/starting-point) is one of the Starting Points from [**HackTheBox**](https://app.hackthebox.com/), where in CTF Redeemer we will learn about **Redis (REmote DIctionary Server)**.
 
 ## Introduction
 

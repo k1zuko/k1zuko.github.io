@@ -8,7 +8,7 @@ image:
     alt: Appointment - HackTheBox
 ---
 
-[**Appointment**](https://app.hackthebox.com/starting-point) is one of the Starting Points from [**HackTheBox**](https://app.hackthebox.com/), where in CTF Fawn we will learn about **SQL (Sctuctured Query Language), SQL Injection**.
+[**Appointment**](https://app.hackthebox.com/starting-point) is one of the Starting Points from [**HackTheBox**](https://app.hackthebox.com/), where in CTF Appointment we will learn about **SQL (Sctuctured Query Language), SQL Injection**.
 
 ## Introduction
 

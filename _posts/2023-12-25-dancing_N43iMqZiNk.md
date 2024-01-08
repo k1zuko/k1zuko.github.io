@@ -8,7 +8,7 @@ image:
     alt: Dancing - HackTheBox
 ---
 
-[**Dancing**](https://app.hackthebox.com/starting-point) is one of the Starting Points from [**HackTheBox**](https://app.hackthebox.com/), where in CTF Fawn we will learn about **SMB (Server Message Block)**.
+[**Dancing**](https://app.hackthebox.com/starting-point) is one of the Starting Points from [**HackTheBox**](https://app.hackthebox.com/), where in CTF Dancing we will learn about **SMB (Server Message Block)**.
 
 ## Introduction
 
