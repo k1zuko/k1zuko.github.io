@@ -3,11 +3,11 @@ title: "HackTheBox - CozyHosting"
 date: 2023-12-25 08:10:00 +0700
 categories: [HackTheBox, Starting Point]
 tags: [very easy, psql, databases, web]
-image:
-    path: /assets/img/htb/CozyHosting.png
-    alt: CozyHosting - HackTheBox
----
 
+---
+<!-- image:
+    path: /assets/img/htb/CozyHosting.png
+    alt: CozyHosting - HackTheBox -->
 [**CozyHosting**](https://app.hackthebox.com/starting-point) is one of the Easy Machines from [**HackTheBox**](https://app.hackthebox.com/), where in CTF CozyHosting we will learn about **PSQL**.
 
 ## Introduction
