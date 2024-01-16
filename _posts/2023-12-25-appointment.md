@@ -4,7 +4,7 @@ date: 2023-12-25 14:17:00 +0700
 categories: [HackTheBox, Starting Point]
 tags: [very easy, web, databases, injection, sql, sql injection]
 image:
-    path: /assets/img/htb/Appointment.png
+    path: /assets/img/hackthebox/starting_points/Appointment.png
     alt: Appointment - HackTheBox
 ---
 

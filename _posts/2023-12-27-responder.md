@@ -4,7 +4,7 @@ date: 2023-12-27 19:00:00 +0700
 categories: [HackTheBox, Starting Point]
 tags: [very easy, web, smb, winrm, responder]
 image:
-    path: /assets/img/htb/Responder.png
+    path: /assets/img/hackthebox/starting_points/Responder.png
     alt: Responder - HackTheBox
 ---
 

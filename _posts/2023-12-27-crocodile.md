@@ -4,7 +4,7 @@ date: 2023-12-27 09:57:00 +0700
 categories: [HackTheBox, Starting Point]
 tags: [very easy, web, ftp]
 image:
-    path: /assets/img/htb/Crocodile.png
+    path: /assets/img/hackthebox/starting_points/Crocodile.png
     alt: Crocodile - HackTheBox
 ---
 

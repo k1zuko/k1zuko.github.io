@@ -1,6 +1,6 @@
 ---
 title: "HackTheBox - CozyHosting"
-date: 2023-12-25 08:10:00 +0700
+date: 2024-01-07 08:10:00 +0700
 categories: [HackTheBox, Starting Point]
 tags: [very easy, psql, databases, web]
 
