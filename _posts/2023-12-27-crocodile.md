@@ -150,7 +150,7 @@ And the result cannot be that only `anonymous` users can log in, it is possible 
 
 After entering the web, we are presented with the main web display, and after investigating there are no tabs leading to the login page, therefore we will fuzz the web using `gobuster`
 
-![Desktop View](/assets/img/htb/include/Crocodile-1.png){: .w-75}
+![Desktop View](/assets/img/hackthebox/starting_points/include/Crocodile-1.png){: .w-75}
 
 ### Gobuster
 
@@ -192,5 +192,5 @@ Finished
 
 We can see, there is login.php. Come on, go back to the website. Login with the username and password provided in the file earlier.
 
-![Desktop View](/assets/img/htb/include/Crocodile-2.png){: .w-75}
-![Desktop View](/assets/img/htb/include/Crocodile-3.png){: .w-75}
+![Desktop View](/assets/img/hackthebox/starting_points/include/Crocodile-2.png){: .w-75}
+![Desktop View](/assets/img/hackthebox/starting_points/include/Crocodile-3.png){: .w-75}

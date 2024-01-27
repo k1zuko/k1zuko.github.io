@@ -103,11 +103,11 @@ requests.get(TARGET_URL)
 
 Sekarang buka burpsuite, jalan kan yang bagian input-an tadi, masukkan ke repeater burp. Nah di dalam bagian `execSync()` kita ubah jadi `'$(ls)'`, kita akan menampilkan filenya apa aja yang ada di situ. 
 
-![Desktop View](/assets/img/htb/include/Gunship-1.png){: .w-75}
+![Desktop View](/assets/img/hackthebox/challenges/include/Gunship-1.png){: .w-75}
 
 Lihat hasilnya `/bin/sh: flagkmBDk: not found`, nah sekarang coba kita ganti `'$(cat flagkmBDk)'`
 
-![Desktop View](/assets/img/htb/include/Gunship-2.png){: .w-75}
+![Desktop View](/assets/img/hackthebox/challenges/include/Gunship-2.png){: .w-75}
 
 */bin/sh: HTB{f4k3_fl4g_f0r_t3st1ng}*
 

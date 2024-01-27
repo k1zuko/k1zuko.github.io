@@ -64,11 +64,11 @@ echo "10.129.93.102 unika.htb" | sudo tee -a /etc/hosts
 
 If you have added it, try opening the website again.
 
-![Desktop View](/assets/img/htb/include/Responder-1.png){: .w-75}
+![Desktop View](/assets/img/hackthebox/starting_points/include/Responder-1.png){: .w-75}
 
 Try changing the language to French, the url will change to `...?page=french.html`. Now there is a possibility that it has potential vulnerability, we can use LFI (Local File Inclusion). Because this is Windows, we will try to open the Windows hosts `windows/system32/drivers/etc/hosts`, and we will use the LFI with `../`. Try until there are no errors.
 
-![Desktop View](/assets/img/htb/include/Responder-2.png){: .w-75}
+![Desktop View](/assets/img/hackthebox/starting_points/include/Responder-2.png){: .w-75}
 
 ### Responder
 
@@ -103,7 +103,7 @@ sudo responder -I tun0
 
 Next, we return to the website, type `//` then your IP and the file/directory is up to you.
 
-![Desktop View](/assets/img/htb/include/Responder-3.png){: .w-75}
+![Desktop View](/assets/img/hackthebox/starting_points/include/Responder-3.png){: .w-75}
 
 Check the Responder.
 

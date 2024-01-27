@@ -63,7 +63,7 @@ You can see the open port 80/tcp, which is the http service port. You can open i
 
 After entering the website, we are presented with a login page. In this position, we don't know what to log in with. Therefore, this time we will use SQL injection to be able to log into the website.
 
-![Desktop View](/assets/img/htb/include/Appointment-1.png){: .w-75}
+![Desktop View](/assets/img/hackthebox/starting_points/include/Appointment-1.png){: .w-75}
 
 ### SQL Injection
 
@@ -81,4 +81,4 @@ However, these credentials cannot be used, therefore we will use SQL injection.
 
 In SQL injection there are many ways that can be used. But this time, we use simple SQL injection with `admin'#` as the username and the password is up to you. Where the function of `'` is to end strings and `#` is used to comment the next command, so that way all that is read is the user as `admin` and the password will be ignored because it has already been commented.
 
-![Desktop View](/assets/img/htb/include/Appointment-2.png){: .w-75}
+![Desktop View](/assets/img/hackthebox/starting_points/include/Appointment-2.png){: .w-75}
