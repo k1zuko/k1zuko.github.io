@@ -1,1 +1,8 @@
-{}
+{
+  "trashOption": "none",
+  "vimMode": false,
+  "showLineNumber": false,
+  "rightToLeft": false,
+  "strictLineBreaks": false,
+  "livePreview": true
+}
