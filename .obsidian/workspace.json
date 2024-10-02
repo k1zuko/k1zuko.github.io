@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-02-15-crafty.md",
+                "file": "_posts/2024-10-01-BoardLight.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "b560aae4e8c52b01",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-02-15-crafty.md",
+                "file": "_posts/2024-10-01-BoardLight.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-02-15-crafty.md",
+                "file": "_posts/2024-10-01-BoardLight.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-02-15-crafty.md"
+                "file": "_posts/2024-10-01-BoardLight.md"
               }
             }
           }
@@ -148,13 +148,19 @@
   },
   "active": "3098858aad1afd8d",
   "lastOpenFiles": [
+    "_tabs/about.md",
+    "_tabs/tags.md",
+    "_tabs/categories.md",
+    "_posts/2023-12-27-crocodile.md",
+    "_posts/2023-12-23-the-first.md",
+    "_posts/2023-12-25-appointment.md",
+    "_posts/2024-02-15-crafty.md",
     "_posts/2024-02-05-broker.md",
     "_posts/2024-01-16-optimum.md",
     "_posts/2023-12-29-web-spookifier.md",
     "_posts/2024-01-27-codify.md",
     "_posts/2024-02-06-precious.md",
     "_posts/2024-02-05-registrytwo.md",
-    "_posts/2024-02-15-crafty.md",
     "_posts/2024-02-10-visual.md",
     "assets/img/hackthebox/machines/easy/crafty/crafty2.png.part",
     "assets/img/hackthebox/machines/easy/crafty/crafty2.png",

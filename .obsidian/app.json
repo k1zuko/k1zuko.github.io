@@ -4,5 +4,6 @@
   "showLineNumber": false,
   "rightToLeft": false,
   "strictLineBreaks": false,
-  "livePreview": true
+  "livePreview": true,
+  "readableLineLength": false
 }

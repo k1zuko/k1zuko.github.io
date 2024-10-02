@@ -1,4 +1,7 @@
 {
   "accentColor": "",
-  "cssTheme": "Terminal"
+  "cssTheme": "Faded",
+  "textFontFamily": "JetBrainsMono Nerd Font",
+  "interfaceFontFamily": "JetBrainsMono Nerd Font",
+  "monospaceFontFamily": "JetBrainsMono Nerd Font"
 }
