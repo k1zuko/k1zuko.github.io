@@ -5,5 +5,5 @@
   "rightToLeft": false,
   "strictLineBreaks": false,
   "livePreview": true,
-  "readableLineLength": false
+  "readableLineLength": true
 }
