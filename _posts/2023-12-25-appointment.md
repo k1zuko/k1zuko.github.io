@@ -1,11 +1,21 @@
 ---
-title: "HackTheBox - Appointment"
+title: HackTheBox - Appointment
 date: 2023-12-25 14:17:00 +0700
-categories: [HackTheBox, Starting Point]
-tags: [very easy, web, databases, injection, sql, sql injection]
+categories:
+  - HackTheBox
+  - Starting Point
+tags:
+  - web
+  - databases
+  - injection
+  - sql
+  - sql
+  - injection
+  - very_easy
+  - hackthebox
 image:
-    path: /assets/img/hackthebox/starting_points/Appointment.png
-    alt: Appointment - HackTheBox
+  path: /assets/img/hackthebox/starting_points/Appointment.png
+  alt: Appointment - HackTheBox
 ---
 
 [**Appointment**](https://app.hackthebox.com/starting-point) is one of the Starting Points from [**HackTheBox**](https://app.hackthebox.com/), where in CTF Appointment we will learn about **SQL (Sctuctured Query Language), SQL Injection**.

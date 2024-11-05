@@ -1,11 +1,16 @@
 ---
-title: "HackTheBox - Spookifier"
+title: HackTheBox - Spookifier
 date: 2023-12-29 18:34:00 +0700
-categories: [HackTheBox, Challenges]
-tags: [very easy, web]
+categories:
+  - HackTheBox
+  - Challenges
+tags:
+  - web
+  - very_easy
+  - hackthebox
 image:
-    path: /assets/img/hackthebox/challenges/web/spookifier.png
-    alt: Lame - HackTheBox
+  path: /assets/img/hackthebox/challenges/web/spookifier.png
+  alt: Lame - HackTheBox
 ---
 
 **Spookfier** ialah salah satu tantangan kategori web dari situs HackTheBox, Gunship ini sebenarnya tantangan lama tapi karena saya belum coba, jadi saya kerjakan aja. Ini perjalanan/panduan saya. Oh iya, disini kita akan mempelajari tentang exploit, SSTI, dll.

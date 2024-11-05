@@ -1,11 +1,17 @@
 ---
-title: "HackTheBox - Crocodile"
+title: HackTheBox - Crocodile
 date: 2023-12-27 09:57:00 +0700
-categories: [HackTheBox, Starting Point]
-tags: [very easy, web, ftp]
+categories:
+  - HackTheBox
+  - Starting Point
+tags:
+  - web
+  - ftp
+  - very_easy
+  - hackthebox
 image:
-    path: /assets/img/hackthebox/starting_points/Crocodile.png
-    alt: Crocodile - HackTheBox
+  path: /assets/img/hackthebox/starting_points/Crocodile.png
+  alt: Crocodile - HackTheBox
 ---
 
 [**Crocodile**](https://app.hackthebox.com/starting-point) is one of the Starting Points from [**HackTheBox**](https://app.hackthebox.com/), where in CTF Crocodile we will learn about **??**.

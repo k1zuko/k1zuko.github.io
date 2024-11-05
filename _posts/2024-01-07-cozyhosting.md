@@ -1,8 +1,15 @@
 ---
-title: "HackTheBox - CozyHosting"
+title: HackTheBox - CozyHosting
 date: 2024-01-07 08:10:00 +0700
-categories: [HackTheBox, Starting Point]
-tags: [easy, psql, databases, web]
+categories:
+  - HackTheBox
+  - Starting Point
+tags:
+  - easy
+  - psql
+  - databases
+  - web
+  - hackthebox
 ---
 
 ![Desktop View](/assets/img/hackthebox/machines/easy/cozyhosting/cozyhosting.png)

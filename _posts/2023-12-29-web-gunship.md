@@ -1,11 +1,16 @@
 ---
-title: "HackTheBox - Gunship"
+title: HackTheBox - Gunship
 date: 2023-12-29 07:18:00 +0700
-categories: [HackTheBox, Challenges]
-tags: [very easy, web]
+categories:
+  - HackTheBox
+  - Challenges
+tags:
+  - web
+  - very_easy
+  - hackthebox
 image:
-    path: /assets/img/hackthebox/challenges/web/gunship.png
-    alt: Gunship - HackTheBox
+  path: /assets/img/hackthebox/challenges/web/gunship.png
+  alt: Gunship - HackTheBox
 ---
 
 **Gunship** ialah salah satu tantangan kategori web dari situs HackTheBox, Gunship ini sebenarnya tantangan lama tapi karena saya belum coba, jadi saya kerjakan aja. Ini perjalanan/panduan saya. Oh iya, disini kita akan mempelajari tentang exploit, burpsuite dll.
